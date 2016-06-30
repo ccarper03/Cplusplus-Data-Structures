@@ -1,0 +1,9 @@
+11:12:18 **** Rebuild of configuration Debug for project Ch1_Ex05 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex05.o" "..\\src\\Ch1_Ex05.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dispenserTypeImp.o" "..\\src\\dispenserTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\cashRegisterImp.o" "..\\src\\cashRegisterImp.cpp" 
+g++ -o Ch1_Ex05.exe "src\\dispenserTypeImp.o" "src\\cashRegisterImp.o" "src\\Ch1_Ex05.o" 
+
+11:12:19 Build Finished (took 1s.326ms)
+

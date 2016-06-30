@@ -1,0 +1,2886 @@
+09:27:45 **** Rebuild of configuration Debug for project Ch2_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex01.o" "..\\src\\Ch2_Ex01.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\extClockTypeImp.o" "..\\src\\extClockTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clockTypeImp.o" "..\\src\\clockTypeImp.cpp" 
+g++ -o Ch2_Ex01.exe "src\\extClockTypeImp.o" "src\\clockTypeImp.o" "src\\Ch2_Ex01.o" 
+Info: Nothing to build for Ch2_Ex01
+11:07:36 **** Rebuild of configuration Debug for project Ch1_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex01.o" "..\\src\\Ch1_Ex01.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\romanTypeImp.o" "..\\src\\romanTypeImp.cpp" 
+g++ -o Ch1_Ex01.exe "src\\romanTypeImp.o" "src\\Ch1_Ex01.o" 
+11:07:37 **** Rebuild of configuration Debug for project Ch1_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dayTypeImp.o" "..\\src\\dayTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex03.o" "..\\src\\Ch1_Ex03.cpp" 
+g++ -o Ch1_Ex03.exe "src\\dayTypeImp.o" "src\\Ch1_Ex03.o" 
+11:07:38 **** Rebuild of configuration Debug for project Ch1_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\personTypeImp.o" "..\\src\\personTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex04.o" "..\\src\\Ch1_Ex04.cpp" 
+g++ -o Ch1_Ex04.exe "src\\personTypeImp.o" "src\\Ch1_Ex04.o" 
+11:07:39 **** Rebuild of configuration Debug for project Ch1_Ex05 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex05.o" "..\\src\\Ch1_Ex05.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dispenserTypeImp.o" "..\\src\\dispenserTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\cashRegisterImp.o" "..\\src\\cashRegisterImp.cpp" 
+g++ -o Ch1_Ex05.exe "src\\dispenserTypeImp.o" "src\\cashRegisterImp.o" "src\\Ch1_Ex05.o" 
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+11:10:14 **** Rebuild of configuration Debug for project Ch2_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dateTypeImp.o" "..\\src\\dateTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex02.o" "..\\src\\Ch2_Ex02.cpp" 
+g++ -o Ch2_Ex02.exe "src\\dateTypeImp.o" "src\\Ch2_Ex02.o" 
+11:10:15 **** Rebuild of configuration Debug for project Ch2_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex03.o" "..\\src\\Ch2_Ex03.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pointTypeImp.o" "..\\src\\pointTypeImp.cpp" 
+g++ -o Ch2_Ex03.exe "src\\pointTypeImp.o" "src\\Ch2_Ex03.o" 
+11:10:16 **** Rebuild of configuration Debug for project Ch3_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex01.o" "..\\src\\Ch3_Ex01.cpp" 
+g++ -o Ch3_Ex01.exe "src\\Ch3_Ex01.o" 
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch2_Ex03
+12:37:00 **** Rebuild of configuration Debug for project Ch1_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex01.o" "..\\src\\Ch1_Ex01.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\romanTypeImp.o" "..\\src\\romanTypeImp.cpp" 
+g++ -o Ch1_Ex01.exe "src\\romanTypeImp.o" "src\\Ch1_Ex01.o" 
+12:37:02 **** Rebuild of configuration Debug for project Ch1_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dayTypeImp.o" "..\\src\\dayTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex03.o" "..\\src\\Ch1_Ex03.cpp" 
+g++ -o Ch1_Ex03.exe "src\\dayTypeImp.o" "src\\Ch1_Ex03.o" 
+12:37:03 **** Rebuild of configuration Debug for project Ch1_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\personTypeImp.o" "..\\src\\personTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex04.o" "..\\src\\Ch1_Ex04.cpp" 
+g++ -o Ch1_Ex04.exe "src\\personTypeImp.o" "src\\Ch1_Ex04.o" 
+12:37:04 **** Rebuild of configuration Debug for project Ch1_Ex05 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dispenserTypeImp.o" "..\\src\\dispenserTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\cashRegisterImp.o" "..\\src\\cashRegisterImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex05.o" "..\\src\\Ch1_Ex05.cpp" 
+g++ -o Ch1_Ex05.exe "src\\dispenserTypeImp.o" "src\\cashRegisterImp.o" "src\\Ch1_Ex05.o" 
+12:37:09 **** Rebuild of configuration Debug for project Ch2_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\extClockTypeImp.o" "..\\src\\extClockTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex01.o" "..\\src\\Ch2_Ex01.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clockTypeImp.o" "..\\src\\clockTypeImp.cpp" 
+g++ -o Ch2_Ex01.exe "src\\extClockTypeImp.o" "src\\clockTypeImp.o" "src\\Ch2_Ex01.o" 
+12:37:10 **** Rebuild of configuration Debug for project Ch2_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex02.o" "..\\src\\Ch2_Ex02.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dateTypeImp.o" "..\\src\\dateTypeImp.cpp" 
+g++ -o Ch2_Ex02.exe "src\\dateTypeImp.o" "src\\Ch2_Ex02.o" 
+12:37:11 **** Rebuild of configuration Debug for project Ch2_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pointTypeImp.o" "..\\src\\pointTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex03.o" "..\\src\\Ch2_Ex03.cpp" 
+g++ -o Ch2_Ex03.exe "src\\pointTypeImp.o" "src\\Ch2_Ex03.o" 
+12:37:13 **** Rebuild of configuration Debug for project Ch3_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex01.o" "..\\src\\Ch3_Ex01.cpp" 
+g++ -o Ch3_Ex01.exe "src\\Ch3_Ex01.o" 
+12:37:13 **** Rebuild of configuration Debug for project Ch3_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex02.o" "..\\src\\Ch3_Ex02.cpp" 
+g++ -o Ch3_Ex02.exe "src\\Ch3_Ex02.o" 
+12:37:15 **** Rebuild of configuration Debug for project Ch3_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex03.o" "..\\src\\Ch3_Ex03.cpp" 
+g++ -o Ch3_Ex03.exe "src\\Ch3_Ex03.o" 
+12:37:16 **** Rebuild of configuration Debug for project Ch3_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex04.o" "..\\src\\Ch3_Ex04.cpp" 
+g++ -o Ch3_Ex04.exe "src\\Ch3_Ex04.o" 
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+Info: Nothing to build for Ch3_Ex01
+13:00:45 **** Incremental Build of configuration Debug for project Ch3_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex02.o" "..\\src\\Ch3_Ex02.cpp" 
+g++ -o Ch3_Ex02.exe "src\\Ch3_Ex02.o" 
+13:01:24 **** Incremental Build of configuration Debug for project Ch3_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex03.o" "..\\src\\Ch3_Ex03.cpp" 
+g++ -o Ch3_Ex03.exe "src\\Ch3_Ex03.o" 
+13:02:18 **** Incremental Build of configuration Debug for project Ch3_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex04.o" "..\\src\\Ch3_Ex04.cpp" 
+g++ -o Ch3_Ex04.exe "src\\Ch3_Ex04.o" 
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+14:15:38 **** Incremental Build of configuration Debug for project Ch2_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex01.o" "..\\src\\Ch2_Ex01.cpp" 
+g++ -o Ch2_Ex01.exe "src\\extClockTypeImp.o" "src\\clockTypeImp.o" "src\\Ch2_Ex01.o" 
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+09:24:38 **** Rebuild of configuration Debug for project Ch3_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex01.o" "..\\src\\Ch3_Ex01.cpp" 
+g++ -o Ch3_Ex01.exe "src\\Ch3_Ex01.o" 
+09:24:59 **** Rebuild of configuration Debug for project Ch3_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex02.o" "..\\src\\Ch3_Ex02.cpp" 
+g++ -o Ch3_Ex02.exe "src\\Ch3_Ex02.o" 
+Info: Nothing to build for Ch3_Ex01
+09:26:46 **** Rebuild of configuration Debug for project Ch3_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex03.o" "..\\src\\Ch3_Ex03.cpp" 
+g++ -o Ch3_Ex03.exe "src\\Ch3_Ex03.o" 
+09:27:09 **** Rebuild of configuration Debug for project Ch3_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex04.o" "..\\src\\Ch3_Ex04.cpp" 
+g++ -o Ch3_Ex04.exe "src\\Ch3_Ex04.o" 
+11:41:10 **** Rebuild of configuration Debug for project Ch1_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\romanTypeImp.o" "..\\src\\romanTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex01.o" "..\\src\\Ch1_Ex01.cpp" 
+g++ -o Ch1_Ex01.exe "src\\romanTypeImp.o" "src\\Ch1_Ex01.o" 
+11:41:11 **** Rebuild of configuration Debug for project Ch1_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex03.o" "..\\src\\Ch1_Ex03.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dayTypeImp.o" "..\\src\\dayTypeImp.cpp" 
+g++ -o Ch1_Ex03.exe "src\\dayTypeImp.o" "src\\Ch1_Ex03.o" 
+11:41:12 **** Rebuild of configuration Debug for project Ch1_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex04.o" "..\\src\\Ch1_Ex04.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\personTypeImp.o" "..\\src\\personTypeImp.cpp" 
+g++ -o Ch1_Ex04.exe "src\\personTypeImp.o" "src\\Ch1_Ex04.o" 
+11:41:13 **** Rebuild of configuration Debug for project Ch1_Ex05 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\cashRegisterImp.o" "..\\src\\cashRegisterImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex05.o" "..\\src\\Ch1_Ex05.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dispenserTypeImp.o" "..\\src\\dispenserTypeImp.cpp" 
+g++ -o Ch1_Ex05.exe "src\\dispenserTypeImp.o" "src\\cashRegisterImp.o" "src\\Ch1_Ex05.o" 
+11:41:14 **** Rebuild of configuration Debug for project Ch2_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clockTypeImp.o" "..\\src\\clockTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\extClockTypeImp.o" "..\\src\\extClockTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex01.o" "..\\src\\Ch2_Ex01.cpp" 
+g++ -o Ch2_Ex01.exe "src\\extClockTypeImp.o" "src\\clockTypeImp.o" "src\\Ch2_Ex01.o" 
+11:41:15 **** Rebuild of configuration Debug for project Ch2_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex02.o" "..\\src\\Ch2_Ex02.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dateTypeImp.o" "..\\src\\dateTypeImp.cpp" 
+g++ -o Ch2_Ex02.exe "src\\dateTypeImp.o" "src\\Ch2_Ex02.o" 
+11:41:16 **** Rebuild of configuration Debug for project Ch2_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex03.o" "..\\src\\Ch2_Ex03.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pointTypeImp.o" "..\\src\\pointTypeImp.cpp" 
+g++ -o Ch2_Ex03.exe "src\\pointTypeImp.o" "src\\Ch2_Ex03.o" 
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+11:41:18 **** Rebuild of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList);
+                                   ^
+..\src\MidtermExam.cpp:14:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList);
+                                      ^
+..\src\MidtermExam.cpp:32:27: error: 'elemtype' was not declared in this scope
+ void reverseVector(vector<elemtype> &myList)
+                           ^
+..\src\MidtermExam.cpp:32:35: error: template argument 1 is invalid
+ void reverseVector(vector<elemtype> &myList)
+                                   ^
+..\src\MidtermExam.cpp:32:35: error: template argument 2 is invalid
+..\src\MidtermExam.cpp: In function 'void reverseVector(int&)':
+..\src\MidtermExam.cpp:35:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+..\src\MidtermExam.cpp:35:16: error: request for member 'begin' in 'myList', which is of non-class type 'int'
+  Itr1 = myList.begin();
+                ^
+..\src\MidtermExam.cpp:36:16: error: request for member 'end' in 'myList', which is of non-class type 'int'
+  Itr2 = myList.end() - 1;
+                ^
+..\src\MidtermExam.cpp:41:9: error: expected ';' before ':' token
+   --Itr2:
+         ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:05:31 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<int> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:27: error: expected primary-expression before 'int'
+ void reverseVector(vector<int> &myList);
+                           ^
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:25:40: error: template argument 1 is invalid
+  ostream_iterator<int screen1(cout, " ");
+                                        ^
+..\src\MidtermExam.cpp:28:16: error: 'myList' was not declared in this scope
+  reverseVector(myList);
+                ^
+..\src\MidtermExam.cpp:28:22: error: 'reverseVector' was not declared in this scope
+  reverseVector(myList);
+                      ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:38:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:07:15 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList);
+                                   ^
+..\src\MidtermExam.cpp:14:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList);
+                                      ^
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:25:40: error: template argument 1 is invalid
+  ostream_iterator<int screen1(cout, " ");
+                                        ^
+..\src\MidtermExam.cpp:28:16: error: 'myList' was not declared in this scope
+  reverseVector(myList);
+                ^
+..\src\MidtermExam.cpp:28:22: error: 'reverseVector' was not declared in this scope
+  reverseVector(myList);
+                      ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:38:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:08:18 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList);
+                                   ^
+..\src\MidtermExam.cpp:14:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList);
+                                      ^
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:25:40: error: template argument 1 is invalid
+  ostream_iterator<int screen1(cout, " ");
+                                        ^
+..\src\MidtermExam.cpp:28:22: error: 'reverseVector' was not declared in this scope
+  reverseVector(myList);
+                      ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:38:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:08:49 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList);
+                                   ^
+..\src\MidtermExam.cpp:14:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList);
+                                      ^
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:25:40: error: template argument 1 is invalid
+  ostream_iterator<int screen1(cout, " ");
+                                        ^
+..\src\MidtermExam.cpp:28:22: error: 'reverseVector' was not declared in this scope
+  reverseVector(myList);
+                      ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:38:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:10:09 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList);
+                                   ^
+..\src\MidtermExam.cpp:14:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList);
+                                      ^
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:23:40: error: template argument 1 is invalid
+  ostream_iterator<int screen1(cout, " ");
+                                        ^
+..\src\MidtermExam.cpp:26:23: error: 'reverseVector' was not declared in this scope
+  reverseVector(intList);
+                       ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:36:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:13:51 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList);
+                                   ^
+..\src\MidtermExam.cpp:14:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList);
+                                      ^
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:23:40: error: template argument 1 is invalid
+  ostream_iterator<int screen1(cout, " ");
+                                        ^
+..\src\MidtermExam.cpp:26:23: error: 'reverseVector' was not declared in this scope
+  reverseVector(intList);
+                       ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:36:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:18:15 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList);
+                                   ^
+..\src\MidtermExam.cpp:14:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList);
+                                      ^
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:24:40: error: template argument 1 is invalid
+  ostream_iterator<int screen1(cout, " ");
+                                        ^
+..\src\MidtermExam.cpp:25:39: error: 'screen1' was not declared in this scope
+  copy(intList.begin(), intList.end(), screen1);
+                                       ^
+..\src\MidtermExam.cpp:30:23: error: 'reverseVector' was not declared in this scope
+  reverseVector(intList);
+                       ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:40:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:34:59 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList);
+                                   ^
+..\src\MidtermExam.cpp:14:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList);
+                                      ^
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:24:40: error: template argument 1 is invalid
+  ostream_iterator<int screen1(cout, " ");
+                                        ^
+..\src\MidtermExam.cpp:25:39: error: 'screen1' was not declared in this scope
+  copy(intList.begin(), intList.end(), screen1);
+                                       ^
+..\src\MidtermExam.cpp:30:23: error: 'reverseVector' was not declared in this scope
+  reverseVector(intList);
+                       ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:40:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:35:49 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:22:19: error: redeclaration of 'std::vector<int> intList'
+  std::vector<int> intList = {23, 56, 45, 33, 88, 12, 67};
+                   ^
+..\src\MidtermExam.cpp:20:14: error: 'std::vector<int> intList' previously declared here
+  vector<int> intList(10);
+              ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:36:12 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:23:14: error: redeclaration of 'std::vector<int> intList'
+  vector<int> intList = {23, 56, 45, 33, 88, 12, 67};
+              ^
+..\src\MidtermExam.cpp:21:14: error: 'std::vector<int> intList' previously declared here
+  vector<int> intList(10);
+              ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:36:26 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:23:51: error: in C++98 'intList' must be initialized by constructor, not by '{...}'
+  vector<int> intList = {23, 56, 45, 33, 88, 12, 67};
+                                                   ^
+..\src\MidtermExam.cpp:23:51: error: could not convert '{23, 56, 45, 33, 88, 12, 67}' from '<brace-enclosed initializer list>' to 'std::vector<int>'
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:36:54 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:23:51: error: in C++98 'intList' must be initialized by constructor, not by '{...}'
+  vector<int> intList = {23, 56, 45, 33, 88, 12, 67};
+                                                   ^
+..\src\MidtermExam.cpp:23:51: error: could not convert '{23, 56, 45, 33, 88, 12, 67}' from '<brace-enclosed initializer list>' to 'std::vector<int>'
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:37:05 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:23:56: error: in C++98 'intList' must be initialized by constructor, not by '{...}'
+  std::vector<int> intList = {23, 56, 45, 33, 88, 12, 67};
+                                                        ^
+..\src\MidtermExam.cpp:23:56: error: could not convert '{23, 56, 45, 33, 88, 12, 67}' from '<brace-enclosed initializer list>' to 'std::vector<int>'
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:39:55 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:23:56: error: in C++98 'intList' must be initialized by constructor, not by '{...}'
+  std::vector<int> intList = {23, 56, 45, 33, 88, 12, 67};
+                                                        ^
+..\src\MidtermExam.cpp:23:56: error: could not convert '{23, 56, 45, 33, 88, 12, 67}' from '<brace-enclosed initializer list>' to 'std::vector<int>'
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:40:36 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:24:23: error: invalid use of 'void'
+  intList.push_back(1) = 23;
+                       ^
+..\src\MidtermExam.cpp:25:23: error: invalid use of 'void'
+  intList.push_back(2) = 56;
+                       ^
+..\src\MidtermExam.cpp:26:23: error: invalid use of 'void'
+  intList.push_back(3) = 45;
+                       ^
+..\src\MidtermExam.cpp:27:23: error: invalid use of 'void'
+  intList.push_back(4) = 33;
+                       ^
+..\src\MidtermExam.cpp:28:23: error: invalid use of 'void'
+  intList.push_back(5) = 88;
+                       ^
+..\src\MidtermExam.cpp:29:23: error: invalid use of 'void'
+  intList.push_back(6) = 12;
+                       ^
+..\src\MidtermExam.cpp:30:23: error: invalid use of 'void'
+  intList.push_back(7) = 67;
+                       ^
+..\src\MidtermExam.cpp:32:7: error: no match for 'operator<<' (operand types are 'std::ostream {aka std::basic_ostream<char>}' and 'std::vector<int>')
+  cout << intList;
+       ^
+..\src\MidtermExam.cpp:32:7: note: candidates are:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:108:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__ostream_type& (*)(std::basic_ostream<_CharT, _Traits>::__ostream_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(__ostream_type& (*__pf)(__ostream_type&))
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:108:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'std::basic_ostream<char>::__ostream_type& (*)(std::basic_ostream<char>::__ostream_type&) {aka std::basic_ostream<char>& (*)(std::basic_ostream<char>&)}'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:117:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__ios_type& (*)(std::basic_ostream<_CharT, _Traits>::__ios_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>; std::basic_ostream<_CharT, _Traits>::__ios_type = std::basic_ios<char>]
+       operator<<(__ios_type& (*__pf)(__ios_type&))
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:117:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'std::basic_ostream<char>::__ios_type& (*)(std::basic_ostream<char>::__ios_type&) {aka std::basic_ios<char>& (*)(std::basic_ios<char>&)}'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:127:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::ios_base& (*)(std::ios_base&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(ios_base& (*__pf) (ios_base&))
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:127:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'std::ios_base& (*)(std::ios_base&)'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:166:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:166:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:170:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:170:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long unsigned int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:174:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(bool) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(bool __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:174:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'bool'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:91:5: note: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(short int) [with _CharT = char; _Traits = std::char_traits<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:91:5: note:   no known conversion for argument 1 from 'std::vector<int>' to 'short int'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:181:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(short unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned short __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:181:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'short unsigned int'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:105:5: note: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(int) [with _CharT = char; _Traits = std::char_traits<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:105:5: note:   no known conversion for argument 1 from 'std::vector<int>' to 'int'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:192:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned int __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:192:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'unsigned int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:201:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long long int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:201:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long long int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:205:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long long unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned long long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:205:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long long unsigned int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:220:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(double) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(double __f)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:220:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'double'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:224:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(float) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(float __f)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:224:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'float'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:232:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long double) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long double __f)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:232:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long double'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:245:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(const void*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(const void* __p)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:245:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'const void*'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:119:5: note: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__streambuf_type*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__streambuf_type = std::basic_streambuf<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:119:5: note:   no known conversion for argument 1 from 'std::vector<int>' to 'std::basic_ostream<char>::__streambuf_type* {aka std::basic_streambuf<char>*}'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\basic_string.h:2753:5: note: template<class _CharT, class _Traits, class _Alloc> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::basic_string<_CharT, _Traits, _Alloc>&)
+     operator<<(basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\basic_string.h:2753:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   'std::vector<int>' is not derived from 'const std::basic_string<_CharT, _Traits, _Alloc>'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:471:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, _CharT)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, _CharT __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:471:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   deduced conflicting types for parameter '_CharT' ('char' and 'std::vector<int>')
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:476:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, char)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:476:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'char'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:482:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, char)
+     operator<<(basic_ostream<char, _Traits>& __out, char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:482:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'char'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:488:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, signed char)
+     operator<<(basic_ostream<char, _Traits>& __out, signed char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:488:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'signed char'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:493:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, unsigned char)
+     operator<<(basic_ostream<char, _Traits>& __out, unsigned char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:493:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'unsigned char'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:513:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const _CharT*)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, const _CharT* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:513:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   mismatched types 'const _CharT*' and 'std::vector<int>'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:321:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const char*)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, const char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:321:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'const char*'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:530:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:530:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'const char*'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:543:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const signed char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const signed char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:543:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'const signed char*'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:548:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const unsigned char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const unsigned char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:548:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'const unsigned char*'
+  cout << intList;
+          ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:42:11 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:24:21: error: invalid types '<unresolved overloaded function type>[int]' for array subscript
+  intList.push_back[1] = 23;
+                     ^
+..\src\MidtermExam.cpp:25:23: error: invalid use of 'void'
+  intList.push_back(2) = 56;
+                       ^
+..\src\MidtermExam.cpp:26:23: error: invalid use of 'void'
+  intList.push_back(3) = 45;
+                       ^
+..\src\MidtermExam.cpp:27:23: error: invalid use of 'void'
+  intList.push_back(4) = 33;
+                       ^
+..\src\MidtermExam.cpp:28:23: error: invalid use of 'void'
+  intList.push_back(5) = 88;
+                       ^
+..\src\MidtermExam.cpp:29:23: error: invalid use of 'void'
+  intList.push_back(6) = 12;
+                       ^
+..\src\MidtermExam.cpp:30:23: error: invalid use of 'void'
+  intList.push_back(7) = 67;
+                       ^
+..\src\MidtermExam.cpp:32:7: error: no match for 'operator<<' (operand types are 'std::ostream {aka std::basic_ostream<char>}' and 'std::vector<int>')
+  cout << intList;
+       ^
+..\src\MidtermExam.cpp:32:7: note: candidates are:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:108:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__ostream_type& (*)(std::basic_ostream<_CharT, _Traits>::__ostream_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(__ostream_type& (*__pf)(__ostream_type&))
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:108:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'std::basic_ostream<char>::__ostream_type& (*)(std::basic_ostream<char>::__ostream_type&) {aka std::basic_ostream<char>& (*)(std::basic_ostream<char>&)}'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:117:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__ios_type& (*)(std::basic_ostream<_CharT, _Traits>::__ios_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>; std::basic_ostream<_CharT, _Traits>::__ios_type = std::basic_ios<char>]
+       operator<<(__ios_type& (*__pf)(__ios_type&))
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:117:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'std::basic_ostream<char>::__ios_type& (*)(std::basic_ostream<char>::__ios_type&) {aka std::basic_ios<char>& (*)(std::basic_ios<char>&)}'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:127:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::ios_base& (*)(std::ios_base&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(ios_base& (*__pf) (ios_base&))
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:127:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'std::ios_base& (*)(std::ios_base&)'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:166:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:166:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:170:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:170:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long unsigned int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:174:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(bool) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(bool __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:174:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'bool'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:91:5: note: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(short int) [with _CharT = char; _Traits = std::char_traits<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:91:5: note:   no known conversion for argument 1 from 'std::vector<int>' to 'short int'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:181:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(short unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned short __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:181:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'short unsigned int'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:105:5: note: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(int) [with _CharT = char; _Traits = std::char_traits<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:105:5: note:   no known conversion for argument 1 from 'std::vector<int>' to 'int'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:192:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned int __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:192:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'unsigned int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:201:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long long int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:201:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long long int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:205:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long long unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned long long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:205:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long long unsigned int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:220:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(double) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(double __f)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:220:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'double'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:224:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(float) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(float __f)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:224:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'float'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:232:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long double) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long double __f)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:232:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long double'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:245:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(const void*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(const void* __p)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:245:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'const void*'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:119:5: note: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__streambuf_type*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__streambuf_type = std::basic_streambuf<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:119:5: note:   no known conversion for argument 1 from 'std::vector<int>' to 'std::basic_ostream<char>::__streambuf_type* {aka std::basic_streambuf<char>*}'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\basic_string.h:2753:5: note: template<class _CharT, class _Traits, class _Alloc> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::basic_string<_CharT, _Traits, _Alloc>&)
+     operator<<(basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\basic_string.h:2753:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   'std::vector<int>' is not derived from 'const std::basic_string<_CharT, _Traits, _Alloc>'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:471:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, _CharT)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, _CharT __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:471:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   deduced conflicting types for parameter '_CharT' ('char' and 'std::vector<int>')
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:476:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, char)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:476:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'char'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:482:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, char)
+     operator<<(basic_ostream<char, _Traits>& __out, char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:482:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'char'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:488:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, signed char)
+     operator<<(basic_ostream<char, _Traits>& __out, signed char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:488:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'signed char'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:493:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, unsigned char)
+     operator<<(basic_ostream<char, _Traits>& __out, unsigned char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:493:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'unsigned char'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:513:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const _CharT*)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, const _CharT* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:513:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   mismatched types 'const _CharT*' and 'std::vector<int>'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:321:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const char*)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, const char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:321:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'const char*'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:530:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:530:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'const char*'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:543:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const signed char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const signed char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:543:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'const signed char*'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:548:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const unsigned char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const unsigned char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:548:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'const unsigned char*'
+  cout << intList;
+          ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:44:37 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+g++ -o MidtermExam.exe "src\\MidtermExam.o" 
+Info: Nothing to build for MidtermExam
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:45:46 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:32:7: error: no match for 'operator<<' (operand types are 'std::ostream {aka std::basic_ostream<char>}' and 'std::vector<int>')
+  cout << intList;
+       ^
+..\src\MidtermExam.cpp:32:7: note: candidates are:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:108:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__ostream_type& (*)(std::basic_ostream<_CharT, _Traits>::__ostream_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(__ostream_type& (*__pf)(__ostream_type&))
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:108:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'std::basic_ostream<char>::__ostream_type& (*)(std::basic_ostream<char>::__ostream_type&) {aka std::basic_ostream<char>& (*)(std::basic_ostream<char>&)}'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:117:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__ios_type& (*)(std::basic_ostream<_CharT, _Traits>::__ios_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>; std::basic_ostream<_CharT, _Traits>::__ios_type = std::basic_ios<char>]
+       operator<<(__ios_type& (*__pf)(__ios_type&))
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:117:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'std::basic_ostream<char>::__ios_type& (*)(std::basic_ostream<char>::__ios_type&) {aka std::basic_ios<char>& (*)(std::basic_ios<char>&)}'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:127:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::ios_base& (*)(std::ios_base&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(ios_base& (*__pf) (ios_base&))
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:127:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'std::ios_base& (*)(std::ios_base&)'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:166:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:166:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:170:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:170:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long unsigned int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:174:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(bool) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(bool __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:174:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'bool'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:91:5: note: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(short int) [with _CharT = char; _Traits = std::char_traits<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:91:5: note:   no known conversion for argument 1 from 'std::vector<int>' to 'short int'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:181:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(short unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned short __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:181:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'short unsigned int'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:105:5: note: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(int) [with _CharT = char; _Traits = std::char_traits<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:105:5: note:   no known conversion for argument 1 from 'std::vector<int>' to 'int'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:192:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned int __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:192:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'unsigned int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:201:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long long int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:201:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long long int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:205:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long long unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned long long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:205:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long long unsigned int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:220:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(double) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(double __f)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:220:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'double'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:224:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(float) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(float __f)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:224:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'float'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:232:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long double) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long double __f)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:232:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long double'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:245:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(const void*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(const void* __p)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:245:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'const void*'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:119:5: note: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__streambuf_type*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__streambuf_type = std::basic_streambuf<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:119:5: note:   no known conversion for argument 1 from 'std::vector<int>' to 'std::basic_ostream<char>::__streambuf_type* {aka std::basic_streambuf<char>*}'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\basic_string.h:2753:5: note: template<class _CharT, class _Traits, class _Alloc> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::basic_string<_CharT, _Traits, _Alloc>&)
+     operator<<(basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\basic_string.h:2753:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   'std::vector<int>' is not derived from 'const std::basic_string<_CharT, _Traits, _Alloc>'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:471:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, _CharT)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, _CharT __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:471:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   deduced conflicting types for parameter '_CharT' ('char' and 'std::vector<int>')
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:476:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, char)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:476:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'char'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:482:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, char)
+     operator<<(basic_ostream<char, _Traits>& __out, char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:482:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'char'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:488:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, signed char)
+     operator<<(basic_ostream<char, _Traits>& __out, signed char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:488:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'signed char'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:493:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, unsigned char)
+     operator<<(basic_ostream<char, _Traits>& __out, unsigned char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:493:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'unsigned char'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:513:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const _CharT*)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, const _CharT* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:513:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   mismatched types 'const _CharT*' and 'std::vector<int>'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:321:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const char*)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, const char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:321:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'const char*'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:530:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:530:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'const char*'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:543:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const signed char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const signed char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:543:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'const signed char*'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:548:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const unsigned char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const unsigned char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:548:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'const unsigned char*'
+  cout << intList;
+          ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:46:48 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:32:7: error: no match for 'operator<<' (operand types are 'std::ostream {aka std::basic_ostream<char>}' and 'std::vector<int>')
+  cout << intList;
+       ^
+..\src\MidtermExam.cpp:32:7: note: candidates are:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:108:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__ostream_type& (*)(std::basic_ostream<_CharT, _Traits>::__ostream_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(__ostream_type& (*__pf)(__ostream_type&))
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:108:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'std::basic_ostream<char>::__ostream_type& (*)(std::basic_ostream<char>::__ostream_type&) {aka std::basic_ostream<char>& (*)(std::basic_ostream<char>&)}'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:117:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__ios_type& (*)(std::basic_ostream<_CharT, _Traits>::__ios_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>; std::basic_ostream<_CharT, _Traits>::__ios_type = std::basic_ios<char>]
+       operator<<(__ios_type& (*__pf)(__ios_type&))
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:117:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'std::basic_ostream<char>::__ios_type& (*)(std::basic_ostream<char>::__ios_type&) {aka std::basic_ios<char>& (*)(std::basic_ios<char>&)}'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:127:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::ios_base& (*)(std::ios_base&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(ios_base& (*__pf) (ios_base&))
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:127:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'std::ios_base& (*)(std::ios_base&)'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:166:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:166:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:170:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:170:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long unsigned int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:174:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(bool) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(bool __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:174:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'bool'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:91:5: note: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(short int) [with _CharT = char; _Traits = std::char_traits<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:91:5: note:   no known conversion for argument 1 from 'std::vector<int>' to 'short int'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:181:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(short unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned short __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:181:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'short unsigned int'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:105:5: note: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(int) [with _CharT = char; _Traits = std::char_traits<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:105:5: note:   no known conversion for argument 1 from 'std::vector<int>' to 'int'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:192:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned int __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:192:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'unsigned int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:201:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long long int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:201:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long long int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:205:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long long unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned long long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:205:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long long unsigned int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:220:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(double) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(double __f)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:220:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'double'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:224:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(float) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(float __f)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:224:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'float'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:232:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long double) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long double __f)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:232:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'long double'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:245:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(const void*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(const void* __p)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:245:7: note:   no known conversion for argument 1 from 'std::vector<int>' to 'const void*'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:119:5: note: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__streambuf_type*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__streambuf_type = std::basic_streambuf<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:119:5: note:   no known conversion for argument 1 from 'std::vector<int>' to 'std::basic_ostream<char>::__streambuf_type* {aka std::basic_streambuf<char>*}'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\string:52:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\basic_string.h:2753:5: note: template<class _CharT, class _Traits, class _Alloc> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::basic_string<_CharT, _Traits, _Alloc>&)
+     operator<<(basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\basic_string.h:2753:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   'std::vector<int>' is not derived from 'const std::basic_string<_CharT, _Traits, _Alloc>'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:471:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, _CharT)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, _CharT __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:471:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   deduced conflicting types for parameter '_CharT' ('char' and 'std::vector<int>')
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:476:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, char)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:476:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'char'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:482:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, char)
+     operator<<(basic_ostream<char, _Traits>& __out, char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:482:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'char'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:488:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, signed char)
+     operator<<(basic_ostream<char, _Traits>& __out, signed char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:488:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'signed char'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:493:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, unsigned char)
+     operator<<(basic_ostream<char, _Traits>& __out, unsigned char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:493:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'unsigned char'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:513:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const _CharT*)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, const _CharT* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:513:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   mismatched types 'const _CharT*' and 'std::vector<int>'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:321:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const char*)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, const char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:321:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'const char*'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:530:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:530:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'const char*'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:543:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const signed char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const signed char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:543:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'const signed char*'
+  cout << intList;
+          ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:548:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const unsigned char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const unsigned char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:548:5: note:   template argument deduction/substitution failed:
+..\src\MidtermExam.cpp:32:10: note:   cannot convert 'intList' (type 'std::vector<int>') to type 'const unsigned char*'
+  cout << intList;
+          ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:47:17 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:32:21: error: expected primary-expression before 'int'
+  for (int index = 0;int index < intList.size();int index++)
+                     ^
+..\src\MidtermExam.cpp:32:21: error: expected ';' before 'int'
+..\src\MidtermExam.cpp:32:21: error: expected primary-expression before 'int'
+..\src\MidtermExam.cpp:32:21: error: expected ')' before 'int'
+..\src\MidtermExam.cpp:32:31: error: expected initializer before '<' token
+  for (int index = 0;int index < intList.size();int index++)
+                               ^
+..\src\MidtermExam.cpp:32:11: warning: unused variable 'index' [-Wunused-variable]
+  for (int index = 0;int index < intList.size();int index++)
+           ^
+..\src\MidtermExam.cpp:32:57: error: expected initializer before '++' token
+  for (int index = 0;int index < intList.size();int index++)
+                                                         ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:47:28 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:32:42: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int index = 0;index < intList.size();index++)
+                                          ^
+g++ -o MidtermExam.exe "src\\MidtermExam.o" 
+Info: Nothing to build for MidtermExam
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:48:27 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:32:42: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int index = 0;index < intList.size();index++)
+                                          ^
+g++ -o MidtermExam.exe "src\\MidtermExam.o" 
+Info: Nothing to build for MidtermExam
+12:48:49 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:32:42: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int index = 0;index < intList.size();index++)
+                                          ^
+g++ -o MidtermExam.exe "src\\MidtermExam.o" 
+12:50:55 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:38:42: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int index = 0;index < intList.size();index++)
+                                          ^
+..\src\MidtermExam.cpp:44:45: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int index = 0;index < stringList.size();index++)
+                                             ^
+g++ -o MidtermExam.exe "src\\MidtermExam.o" 
+12:51:24 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:38:42: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int index = 0;index < intList.size();index++)
+                                          ^
+..\src\MidtermExam.cpp:45:45: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int index = 0;index < stringList.size();index++)
+                                             ^
+g++ -o MidtermExam.exe "src\\MidtermExam.o" 
+12:52:30 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:38:42: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int index = 0;index < intList.size();index++)
+                                          ^
+..\src\MidtermExam.cpp:45:45: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int index = 0;index < stringList.size();index++)
+                                             ^
+g++ -o MidtermExam.exe "src\\MidtermExam.o" 
+12:53:32 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:38:42: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int index = 0;index < intList.size();index++)
+                                          ^
+..\src\MidtermExam.cpp:46:45: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int index = 0;index < stringList.size();index++)
+                                             ^
+g++ -o MidtermExam.exe "src\\MidtermExam.o" 
+12:53:51 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:38:42: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int index = 0;index < intList.size();index++)
+                                          ^
+..\src\MidtermExam.cpp:47:45: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int index = 0;index < stringList.size();index++)
+                                             ^
+g++ -o MidtermExam.exe "src\\MidtermExam.o" 
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+13:11:23 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList);
+                                   ^
+..\src\MidtermExam.cpp:14:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList);
+                                      ^
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:57:40: error: template argument 1 is invalid
+  ostream_iterator<int screen1(cout, " ");
+                                        ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:79:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+13:12:49 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList);
+                                   ^
+..\src\MidtermExam.cpp:14:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList);
+                                      ^
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:35:40: error: template argument 1 is invalid
+  ostream_iterator<int screen1(cout, " ");
+                                        ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:57:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+13:14:47 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList);
+                                   ^
+..\src\MidtermExam.cpp:14:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList);
+                                      ^
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:35:40: error: template argument 1 is invalid
+  ostream_iterator<int screen1(cout, " ");
+                                        ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:57:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+13:15:32 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList);
+                                   ^
+..\src\MidtermExam.cpp:14:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList);
+                                      ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:58:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+13:03:43 **** Rebuild of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList);
+                                   ^
+..\src\MidtermExam.cpp:14:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList);
+                                      ^
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:23:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(23);
+          ^
+..\src\MidtermExam.cpp:24:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(56);
+          ^
+..\src\MidtermExam.cpp:25:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(45);
+          ^
+..\src\MidtermExam.cpp:26:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(33);
+          ^
+..\src\MidtermExam.cpp:27:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(88);
+          ^
+..\src\MidtermExam.cpp:28:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(12);
+          ^
+..\src\MidtermExam.cpp:29:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(67);
+          ^
+..\src\MidtermExam.cpp:31:13: error: request for member 'push_back' in 'stringList', which is of non-class type 'std::vector<std::basic_string<char> >()'
+  stringList.push_back("Spring");
+             ^
+..\src\MidtermExam.cpp:32:13: error: request for member 'push_back' in 'stringList', which is of non-class type 'std::vector<std::basic_string<char> >()'
+  stringList.push_back("Summer");
+             ^
+..\src\MidtermExam.cpp:33:13: error: request for member 'push_back' in 'stringList', which is of non-class type 'std::vector<std::basic_string<char> >()'
+  stringList.push_back("Fall");
+             ^
+..\src\MidtermExam.cpp:34:13: error: request for member 'push_back' in 'stringList', which is of non-class type 'std::vector<std::basic_string<char> >()'
+  stringList.push_back("Winter");
+             ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:53:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+13:03:48 **** Rebuild of configuration Debug for project Ch1_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex01.o" "..\\src\\Ch1_Ex01.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\romanTypeImp.o" "..\\src\\romanTypeImp.cpp" 
+g++ -o Ch1_Ex01.exe "src\\romanTypeImp.o" "src\\Ch1_Ex01.o" 
+13:03:50 **** Rebuild of configuration Debug for project Ch1_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex03.o" "..\\src\\Ch1_Ex03.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dayTypeImp.o" "..\\src\\dayTypeImp.cpp" 
+g++ -o Ch1_Ex03.exe "src\\dayTypeImp.o" "src\\Ch1_Ex03.o" 
+13:03:51 **** Rebuild of configuration Debug for project Ch1_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex04.o" "..\\src\\Ch1_Ex04.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\personTypeImp.o" "..\\src\\personTypeImp.cpp" 
+g++ -o Ch1_Ex04.exe "src\\personTypeImp.o" "src\\Ch1_Ex04.o" 
+13:03:52 **** Rebuild of configuration Debug for project Ch1_Ex05 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\cashRegisterImp.o" "..\\src\\cashRegisterImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex05.o" "..\\src\\Ch1_Ex05.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dispenserTypeImp.o" "..\\src\\dispenserTypeImp.cpp" 
+g++ -o Ch1_Ex05.exe "src\\dispenserTypeImp.o" "src\\cashRegisterImp.o" "src\\Ch1_Ex05.o" 
+13:03:53 **** Rebuild of configuration Debug for project Ch2_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex01.o" "..\\src\\Ch2_Ex01.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clockTypeImp.o" "..\\src\\clockTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\extClockTypeImp.o" "..\\src\\extClockTypeImp.cpp" 
+g++ -o Ch2_Ex01.exe "src\\extClockTypeImp.o" "src\\clockTypeImp.o" "src\\Ch2_Ex01.o" 
+13:03:56 **** Rebuild of configuration Debug for project Ch2_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex02.o" "..\\src\\Ch2_Ex02.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dateTypeImp.o" "..\\src\\dateTypeImp.cpp" 
+g++ -o Ch2_Ex02.exe "src\\dateTypeImp.o" "src\\Ch2_Ex02.o" 
+13:03:58 **** Rebuild of configuration Debug for project Ch2_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex03.o" "..\\src\\Ch2_Ex03.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pointTypeImp.o" "..\\src\\pointTypeImp.cpp" 
+g++ -o Ch2_Ex03.exe "src\\pointTypeImp.o" "src\\Ch2_Ex03.o" 
+13:04:03 **** Rebuild of configuration Debug for project Ch3_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex01.o" "..\\src\\Ch3_Ex01.cpp" 
+g++ -o Ch3_Ex01.exe "src\\Ch3_Ex01.o" 
+13:04:04 **** Rebuild of configuration Debug for project Ch3_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex02.o" "..\\src\\Ch3_Ex02.cpp" 
+g++ -o Ch3_Ex02.exe "src\\Ch3_Ex02.o" 
+13:04:05 **** Rebuild of configuration Debug for project Ch3_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex03.o" "..\\src\\Ch3_Ex03.cpp" 
+g++ -o Ch3_Ex03.exe "src\\Ch3_Ex03.o" 
+13:04:05 **** Rebuild of configuration Debug for project Ch3_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex04.o" "..\\src\\Ch3_Ex04.cpp" 
+g++ -o Ch3_Ex04.exe "src\\Ch3_Ex04.o" 
+13:04:06 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList);
+                                   ^
+..\src\MidtermExam.cpp:14:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList);
+                                      ^
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:23:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(23);
+          ^
+..\src\MidtermExam.cpp:24:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(56);
+          ^
+..\src\MidtermExam.cpp:25:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(45);
+          ^
+..\src\MidtermExam.cpp:26:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(33);
+          ^
+..\src\MidtermExam.cpp:27:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(88);
+          ^
+..\src\MidtermExam.cpp:28:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(12);
+          ^
+..\src\MidtermExam.cpp:29:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(67);
+          ^
+..\src\MidtermExam.cpp:31:13: error: request for member 'push_back' in 'stringList', which is of non-class type 'std::vector<std::basic_string<char> >()'
+  stringList.push_back("Spring");
+             ^
+..\src\MidtermExam.cpp:32:13: error: request for member 'push_back' in 'stringList', which is of non-class type 'std::vector<std::basic_string<char> >()'
+  stringList.push_back("Summer");
+             ^
+..\src\MidtermExam.cpp:33:13: error: request for member 'push_back' in 'stringList', which is of non-class type 'std::vector<std::basic_string<char> >()'
+  stringList.push_back("Fall");
+             ^
+..\src\MidtermExam.cpp:34:13: error: request for member 'push_back' in 'stringList', which is of non-class type 'std::vector<std::basic_string<char> >()'
+  stringList.push_back("Winter");
+             ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:53:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+13:07:39 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList);
+                                   ^
+..\src\MidtermExam.cpp:14:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList);
+                                      ^
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:23:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(23);
+          ^
+..\src\MidtermExam.cpp:24:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(56);
+          ^
+..\src\MidtermExam.cpp:25:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(45);
+          ^
+..\src\MidtermExam.cpp:26:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(33);
+          ^
+..\src\MidtermExam.cpp:27:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(88);
+          ^
+..\src\MidtermExam.cpp:28:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(12);
+          ^
+..\src\MidtermExam.cpp:29:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(67);
+          ^
+..\src\MidtermExam.cpp:31:13: error: request for member 'push_back' in 'stringList', which is of non-class type 'std::vector<std::basic_string<char> >()'
+  stringList.push_back("Spring");
+             ^
+..\src\MidtermExam.cpp:32:13: error: request for member 'push_back' in 'stringList', which is of non-class type 'std::vector<std::basic_string<char> >()'
+  stringList.push_back("Summer");
+             ^
+..\src\MidtermExam.cpp:33:13: error: request for member 'push_back' in 'stringList', which is of non-class type 'std::vector<std::basic_string<char> >()'
+  stringList.push_back("Fall");
+             ^
+..\src\MidtermExam.cpp:34:13: error: request for member 'push_back' in 'stringList', which is of non-class type 'std::vector<std::basic_string<char> >()'
+  stringList.push_back("Winter");
+             ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:53:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+13:08:13 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:14:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList);
+                    ^
+..\src\MidtermExam.cpp:14:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:14:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:14:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList);
+                                   ^
+..\src\MidtermExam.cpp:14:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList);
+                                      ^
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:23:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(23);
+          ^
+..\src\MidtermExam.cpp:24:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(56);
+          ^
+..\src\MidtermExam.cpp:25:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(45);
+          ^
+..\src\MidtermExam.cpp:26:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(33);
+          ^
+..\src\MidtermExam.cpp:27:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(88);
+          ^
+..\src\MidtermExam.cpp:28:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(12);
+          ^
+..\src\MidtermExam.cpp:29:10: error: request for member 'push_back' in 'intList', which is of non-class type 'std::vector<int>()'
+  intList.push_back(67);
+          ^
+..\src\MidtermExam.cpp:31:13: error: request for member 'push_back' in 'stringList', which is of non-class type 'std::vector<std::basic_string<char> >()'
+  stringList.push_back("Spring");
+             ^
+..\src\MidtermExam.cpp:32:13: error: request for member 'push_back' in 'stringList', which is of non-class type 'std::vector<std::basic_string<char> >()'
+  stringList.push_back("Summer");
+             ^
+..\src\MidtermExam.cpp:33:13: error: request for member 'push_back' in 'stringList', which is of non-class type 'std::vector<std::basic_string<char> >()'
+  stringList.push_back("Fall");
+             ^
+..\src\MidtermExam.cpp:34:13: error: request for member 'push_back' in 'stringList', which is of non-class type 'std::vector<std::basic_string<char> >()'
+  stringList.push_back("Winter");
+             ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:53:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+13:09:11 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:15:1: error: expected unqualified-id before 'using'
+ using namespace std;
+ ^
+..\src\MidtermExam.cpp: In function 'int main()':
+..\src\MidtermExam.cpp:19:21: error: variable or field 'reverseVector' declared void
+  void reverseVector(vector<elemType> &myList);
+                     ^
+..\src\MidtermExam.cpp:19:21: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:19:21: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:19:28: error: 'elemType' was not declared in this scope
+  void reverseVector(vector<elemType> &myList);
+                            ^
+..\src\MidtermExam.cpp:19:39: error: 'myList' was not declared in this scope
+  void reverseVector(vector<elemType> &myList);
+                                       ^
+..\src\MidtermExam.cpp:21:9: error: expected primary-expression before 'int'
+  vector<int> intList;
+         ^
+..\src\MidtermExam.cpp:21:9: error: expected ';' before 'int'
+..\src\MidtermExam.cpp:22:9: error: 'string' was not declared in this scope
+  vector<string> stringList;
+         ^
+..\src\MidtermExam.cpp:22:9: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iosfwd:39:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ios:38,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stringfwd.h:62:33: note:   'std::string'
+   typedef basic_string<char>    string;   
+                                 ^
+..\src\MidtermExam.cpp:22:17: error: 'stringList' was not declared in this scope
+  vector<string> stringList;
+                 ^
+..\src\MidtermExam.cpp:24:2: error: 'intList' was not declared in this scope
+  intList.push_back(23);
+  ^
+..\src\MidtermExam.cpp:37:2: error: 'cout' was not declared in this scope
+  cout << "intList INTERGER values before reverse - ";
+  ^
+..\src\MidtermExam.cpp:37:2: note: suggested alternative:
+In file included from ..\src\MidtermExam.cpp:8:0:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:61:18: note:   'std::cout'
+   extern ostream cout;  /// Linked to standard output
+                  ^
+..\src\MidtermExam.cpp:38:10: error: 'endl' was not declared in this scope
+  cout << endl;
+          ^
+..\src\MidtermExam.cpp:38:10: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\MidtermExam.cpp:8:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:564:5: note:   'std::endl'
+     endl(basic_ostream<_CharT, _Traits>& __os)
+     ^
+..\src\MidtermExam.cpp:42:2: error: 'ostream_iterator' was not declared in this scope
+  ostream_iterator<int> screen1(cout, " ");
+  ^
+..\src\MidtermExam.cpp:42:2: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iterator:66:0,
+                 from ..\src\MidtermExam.cpp:10:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stream_iterator.h:154:11: note:   'std::ostream_iterator'
+     class ostream_iterator
+           ^
+..\src\MidtermExam.cpp:42:19: error: expected primary-expression before 'int'
+  ostream_iterator<int> screen1(cout, " ");
+                   ^
+..\src\MidtermExam.cpp:42:19: error: expected ';' before 'int'
+..\src\MidtermExam.cpp:43:44: error: 'screen2' was not declared in this scope
+  ostream_iterator<string> screen2(cout, " ");
+                                            ^
+..\src\MidtermExam.cpp: At global scope:
+..\src\MidtermExam.cpp:51:20: error: variable or field 'reverseVector' declared void
+ void reverseVector(vector<elemType> &myList)
+                    ^
+..\src\MidtermExam.cpp:51:20: error: 'vector' was not declared in this scope
+..\src\MidtermExam.cpp:51:20: note: suggested alternative:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from ..\src\MidtermExam.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:210:11: note:   'std::vector'
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^
+..\src\MidtermExam.cpp:51:35: error: expected primary-expression before '>' token
+ void reverseVector(vector<elemType> &myList)
+                                   ^
+..\src\MidtermExam.cpp:51:38: error: 'myList' was not declared in this scope
+ void reverseVector(vector<elemType> &myList)
+                                      ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+13:09:34 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:17:10: error: cannot declare '::main' to be a template
+ int main()
+          ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:54:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+13:10:30 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp:17:10: error: cannot declare '::main' to be a template
+ int main()
+          ^
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:54:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+13:10:54 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:52:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+13:11:38 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:52:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+13:11:42 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+..\src\MidtermExam.cpp: In function 'void reverseVector(std::vector<elemType>&)':
+..\src\MidtermExam.cpp:52:2: error: 'Itr1' was not declared in this scope
+  Itr1 = myList.begin();
+  ^
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+11:06:47 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+g++ -o MidtermExam.exe "src\\MidtermExam.o" 
+Info: Nothing to build for MidtermExam
+11:07:53 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+g++ -o MidtermExam.exe "src\\MidtermExam.o" 
+Info: Nothing to build for MidtermExam
+11:11:09 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+g++ -o MidtermExam.exe "src\\MidtermExam.o" 
+Info: Nothing to build for Ch3_Ex04
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:28:48 **** Rebuild of configuration Debug for project Ch4_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex01.o" "..\\src\\Ch4_Ex01.cpp" 
+..\src\Ch4_Ex01.cpp: In function 'int main()':
+..\src\Ch4_Ex01.cpp:48:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); ++i) // User types in the name and number of votes
+                                   ^
+..\src\Ch4_Ex01.cpp:54:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); ++i) // Calculates percentage votes
+                                   ^
+..\src\Ch4_Ex01.cpp:64:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); i++) // displays the name, the number of votes they got and the percentage
+                                   ^
+g++ -o Ch4_Ex01.exe "src\\Ch4_Ex01.o" 
+12:28:49 **** Rebuild of configuration Debug for project Ch4_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex02.o" "..\\src\\Ch4_Ex02.cpp" 
+g++ -o Ch4_Ex02.exe "src\\Ch4_Ex02.o" 
+12:28:50 **** Rebuild of configuration Debug for project Ch4_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex03.o" "..\\src\\Ch4_Ex03.cpp" 
+..\src\Ch4_Ex03.cpp: In function 'int main()':
+..\src\Ch4_Ex03.cpp:47:31: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ for(int i=0; i < vecList.size(); i++)
+                               ^
+g++ -o Ch4_Ex03.exe "src\\Ch4_Ex03.o" 
+Info: Nothing to build for MidtermExam
+Info: Nothing to build for Ch3_Ex04
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+Info: Nothing to build for Ch4_Ex01
+Info: Nothing to build for Ch4_Ex02
+Info: Nothing to build for Ch4_Ex03
+Info: Nothing to build for MidtermExam
+Info: Nothing to build for Ch4_Ex02
+Info: Nothing to build for Ch4_Ex03
+12:41:07 **** Incremental Build of configuration Debug for project Ch4_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex02.o" "..\\src\\Ch4_Ex02.cpp" 
+g++ -o Ch4_Ex02.exe "src\\Ch4_Ex02.o" 
+12:41:39 **** Incremental Build of configuration Debug for project Ch4_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex02.o" "..\\src\\Ch4_Ex02.cpp" 
+g++ -o Ch4_Ex02.exe "src\\Ch4_Ex02.o" 
+Info: Nothing to build for Ch1_Ex01
+Info: Nothing to build for Ch1_Ex03
+Info: Nothing to build for Ch1_Ex04
+Info: Nothing to build for Ch1_Ex05
+Info: Nothing to build for Ch2_Ex01
+Info: Nothing to build for Ch2_Ex02
+Info: Nothing to build for Ch2_Ex03
+Info: Nothing to build for Ch3_Ex01
+Info: Nothing to build for Ch3_Ex02
+Info: Nothing to build for Ch3_Ex03
+Info: Nothing to build for Ch3_Ex04
+12:53:27 **** Rebuild of configuration Debug for project Ch4_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex01.o" "..\\src\\Ch4_Ex01.cpp" 
+..\src\Ch4_Ex01.cpp: In function 'int main()':
+..\src\Ch4_Ex01.cpp:48:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); ++i) // User types in the name and number of votes
+                                   ^
+..\src\Ch4_Ex01.cpp:54:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); ++i) // Calculates percentage votes
+                                   ^
+..\src\Ch4_Ex01.cpp:64:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); i++) // displays the name, the number of votes they got and the percentage
+                                   ^
+g++ -o Ch4_Ex01.exe "src\\Ch4_Ex01.o" 
+12:53:28 **** Rebuild of configuration Debug for project Ch4_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex02.o" "..\\src\\Ch4_Ex02.cpp" 
+g++ -o Ch4_Ex02.exe "src\\Ch4_Ex02.o" 
+12:53:29 **** Rebuild of configuration Debug for project Ch4_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex03.o" "..\\src\\Ch4_Ex03.cpp" 
+..\src\Ch4_Ex03.cpp: In function 'int main()':
+..\src\Ch4_Ex03.cpp:46:31: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ for(int i=0; i < vecList.size(); i++)
+                               ^
+g++ -o Ch4_Ex03.exe "src\\Ch4_Ex03.o" 
+12:53:30 **** Incremental Build of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+g++ -o MidtermExam.exe "src\\MidtermExam.o" 
+Info: Nothing to build for MidtermExam
+08:24:05 **** Rebuild of configuration Debug for project Ch4_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex01.o" "..\\src\\Ch4_Ex01.cpp" 
+..\src\Ch4_Ex01.cpp: In function 'int main()':
+..\src\Ch4_Ex01.cpp:48:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); ++i) // User types in the name and number of votes
+                                   ^
+..\src\Ch4_Ex01.cpp:54:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); ++i) // Calculates percentage votes
+                                   ^
+..\src\Ch4_Ex01.cpp:64:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); i++) // displays the name, the number of votes they got and the percentage
+                                   ^
+g++ -o Ch4_Ex01.exe "src\\Ch4_Ex01.o" 
+08:25:58 **** Rebuild of configuration Debug for project Ch4_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex02.o" "..\\src\\Ch4_Ex02.cpp" 
+g++ -o Ch4_Ex02.exe "src\\Ch4_Ex02.o" 
+08:27:20 **** Rebuild of configuration Debug for project Ch4_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex03.o" "..\\src\\Ch4_Ex03.cpp" 
+..\src\Ch4_Ex03.cpp: In function 'int main()':
+..\src\Ch4_Ex03.cpp:50:32: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(int i=0; i < vecList.size(); i++)
+                                ^
+g++ -o Ch4_Ex03.exe "src\\Ch4_Ex03.o" 
+11:38:56 **** Rebuild of configuration Debug for project Ch1_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\romanTypeImp.o" "..\\src\\romanTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex01.o" "..\\src\\Ch1_Ex01.cpp" 
+g++ -o Ch1_Ex01.exe "src\\romanTypeImp.o" "src\\Ch1_Ex01.o" 
+11:38:59 **** Rebuild of configuration Debug for project Ch1_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex03.o" "..\\src\\Ch1_Ex03.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dayTypeImp.o" "..\\src\\dayTypeImp.cpp" 
+g++ -o Ch1_Ex03.exe "src\\dayTypeImp.o" "src\\Ch1_Ex03.o" 
+11:39:01 **** Rebuild of configuration Debug for project Ch1_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\personTypeImp.o" "..\\src\\personTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex04.o" "..\\src\\Ch1_Ex04.cpp" 
+g++ -o Ch1_Ex04.exe "src\\personTypeImp.o" "src\\Ch1_Ex04.o" 
+11:39:02 **** Rebuild of configuration Debug for project Ch1_Ex05 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dispenserTypeImp.o" "..\\src\\dispenserTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\cashRegisterImp.o" "..\\src\\cashRegisterImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex05.o" "..\\src\\Ch1_Ex05.cpp" 
+g++ -o Ch1_Ex05.exe "src\\dispenserTypeImp.o" "src\\cashRegisterImp.o" "src\\Ch1_Ex05.o" 
+11:39:03 **** Rebuild of configuration Debug for project Ch2_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\extClockTypeImp.o" "..\\src\\extClockTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex01.o" "..\\src\\Ch2_Ex01.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clockTypeImp.o" "..\\src\\clockTypeImp.cpp" 
+g++ -o Ch2_Ex01.exe "src\\extClockTypeImp.o" "src\\clockTypeImp.o" "src\\Ch2_Ex01.o" 
+11:39:05 **** Rebuild of configuration Debug for project Ch2_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dateTypeImp.o" "..\\src\\dateTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex02.o" "..\\src\\Ch2_Ex02.cpp" 
+g++ -o Ch2_Ex02.exe "src\\dateTypeImp.o" "src\\Ch2_Ex02.o" 
+11:39:06 **** Rebuild of configuration Debug for project Ch2_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex03.o" "..\\src\\Ch2_Ex03.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pointTypeImp.o" "..\\src\\pointTypeImp.cpp" 
+g++ -o Ch2_Ex03.exe "src\\pointTypeImp.o" "src\\Ch2_Ex03.o" 
+11:39:07 **** Rebuild of configuration Debug for project Ch3_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex01.o" "..\\src\\Ch3_Ex01.cpp" 
+g++ -o Ch3_Ex01.exe "src\\Ch3_Ex01.o" 
+11:39:16 **** Rebuild of configuration Debug for project Ch3_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex02.o" "..\\src\\Ch3_Ex02.cpp" 
+g++ -o Ch3_Ex02.exe "src\\Ch3_Ex02.o" 
+11:39:24 **** Rebuild of configuration Debug for project Ch3_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex03.o" "..\\src\\Ch3_Ex03.cpp" 
+g++ -o Ch3_Ex03.exe "src\\Ch3_Ex03.o" 
+11:39:24 **** Rebuild of configuration Debug for project Ch3_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex04.o" "..\\src\\Ch3_Ex04.cpp" 
+g++ -o Ch3_Ex04.exe "src\\Ch3_Ex04.o" 
+11:39:25 **** Rebuild of configuration Debug for project Ch4_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex01.o" "..\\src\\Ch4_Ex01.cpp" 
+..\src\Ch4_Ex01.cpp: In function 'int main()':
+..\src\Ch4_Ex01.cpp:48:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); ++i) // User types in the name and number of votes
+                                   ^
+..\src\Ch4_Ex01.cpp:54:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); ++i) // Calculates percentage votes
+                                   ^
+..\src\Ch4_Ex01.cpp:64:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); i++) // displays the name, the number of votes they got and the percentage
+                                   ^
+g++ -o Ch4_Ex01.exe "src\\Ch4_Ex01.o" 
+11:39:26 **** Rebuild of configuration Debug for project Ch4_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex02.o" "..\\src\\Ch4_Ex02.cpp" 
+g++ -o Ch4_Ex02.exe "src\\Ch4_Ex02.o" 
+11:39:27 **** Rebuild of configuration Debug for project Ch4_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex03.o" "..\\src\\Ch4_Ex03.cpp" 
+..\src\Ch4_Ex03.cpp: In function 'int main()':
+..\src\Ch4_Ex03.cpp:50:32: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(int i=0; i < vecList.size(); i++)
+                                ^
+g++ -o Ch4_Ex03.exe "src\\Ch4_Ex03.o" 
+11:39:28 **** Rebuild of configuration Debug for project Ch6_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch6_Ex01.o" "..\\src\\Ch6_Ex01.cpp" 
+g++ -o Ch6_Ex01.exe "src\\Ch6_Ex01.o" 
+11:39:29 **** Rebuild of configuration Debug for project Ch6_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch6_Ex02.o" "..\\src\\Ch6_Ex02.cpp" 
+g++ -o Ch6_Ex02.exe "src\\Ch6_Ex02.o" 
+11:39:29 **** Rebuild of configuration Debug for project Ch6_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch6_Ex03.o" "..\\src\\Ch6_Ex03.cpp" 
+g++ -o Ch6_Ex03.exe "src\\Ch6_Ex03.o" 
+11:39:30 **** Rebuild of configuration Debug for project Ch6_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch6_Ex04.o" "..\\src\\Ch6_Ex04.cpp" 
+g++ -o Ch6_Ex04.exe "src\\Ch6_Ex04.o" 
+11:39:37 **** Rebuild of configuration Debug for project Ch6_Ex05 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch6_Ex05.o" "..\\src\\Ch6_Ex05.cpp" 
+g++ -o Ch6_Ex05.exe "src\\Ch6_Ex05.o" 
+11:39:38 **** Rebuild of configuration Debug for project Ch9_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch9_Ex01.o" "..\\src\\Ch9_Ex01.cpp" 
+g++ -o Ch9_Ex01.exe "src\\Ch9_Ex01.o" 
+11:39:39 **** Rebuild of configuration Debug for project Ch9_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch9_Ex02.o" "..\\src\\Ch9_Ex02.cpp" 
+In file included from ..\src\Ch9_Ex02.cpp:16:0:
+..\src\orderedArrayListType.h: In instantiation of 'int orderedArrayListType<elemType>::recBinarySearch(const elemType&, int, int) const [with elemType = int]':
+..\src\orderedArrayListType.h:37:65:   required from 'int orderedArrayListType<elemType>::recBinarySearchImp(const elemType&) const [with elemType = int]'
+..\src\Ch9_Ex02.cpp:39:42:   required from here
+..\src\orderedArrayListType.h:44:6: warning: unused variable 'mid' [-Wunused-variable]
+  int mid;
+      ^
+g++ -o Ch9_Ex02.exe "src\\Ch9_Ex02.o" 
+11:39:40 **** Rebuild of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+g++ -o MidtermExam.exe "src\\MidtermExam.o" 
+Info: Nothing to build for Ch6_Ex01
+10:42:56 **** Rebuild of configuration Debug for project Ch10_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch10_Ex02.o" "..\\src\\Ch10_Ex02.cpp" 
+g++ -o Ch10_Ex02.exe "src\\Ch10_Ex02.o" 
+10:43:28 **** Rebuild of configuration Debug for project Ch10_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch10_Ex04.o" "..\\src\\Ch10_Ex04.cpp" 
+g++ -o Ch10_Ex04.exe "src\\Ch10_Ex04.o" 
+11:03:45 **** Rebuild of configuration Debug for project FinalExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\FinalExam.o" "..\\src\\FinalExam.cpp" 
+In file included from ..\src\FinalExam.cpp:10:0:
+..\src\arrayListType.h: In member function 'void arrayListType<elemType>::recQuickSort(int, int)':
+..\src\arrayListType.h:452:38: error: there are no arguments to 'partition' that depend on a template parameter, so a declaration of 'partition' must be available [-fpermissive]
+ pivotLocation = partition(first, last);
+                                      ^
+..\src\arrayListType.h:452:38: note: (if you use '-fpermissive', G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+11:03:59 **** Incremental Build of configuration Debug for project FinalExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\FinalExam.o" "..\\src\\FinalExam.cpp" 
+In file included from ..\src\FinalExam.cpp:10:0:
+..\src\arrayListType.h: In member function 'void arrayListType<elemType>::recQuickSort(int, int)':
+..\src\arrayListType.h:452:38: error: there are no arguments to 'partition' that depend on a template parameter, so a declaration of 'partition' must be available [-fpermissive]
+ pivotLocation = partition(first, last);
+                                      ^
+..\src\arrayListType.h:452:38: note: (if you use '-fpermissive', G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+11:09:45 **** Incremental Build of configuration Debug for project FinalExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\FinalExam.o" "..\\src\\FinalExam.cpp" 
+In file included from ..\src\FinalExam.cpp:9:0:
+..\src\arrayListType.h:110:9: error: extra qualification 'arrayListType<elemType>::' on member 'partition' [-fpermissive]
+     int arrayListType<elemType>::partition(int first, int last);
+         ^
+..\src\arrayListType.h:110:63: error: explicit specialization of 'int arrayListType<elemType>::partition(int, int)' must be introduced by 'template <>'
+     int arrayListType<elemType>::partition(int first, int last);
+                                                               ^
+..\src\arrayListType.h: In member function 'void arrayListType<elemType>::recQuickSort(int, int)':
+..\src\arrayListType.h:459:38: error: there are no arguments to 'partition' that depend on a template parameter, so a declaration of 'partition' must be available [-fpermissive]
+ pivotLocation = partition(first, last);
+                                      ^
+..\src\arrayListType.h:459:38: note: (if you use '-fpermissive', G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+..\src\arrayListType.h: At global scope:
+..\src\arrayListType.h:468:59: error: no 'int arrayListType<elemType>::partition(int, int)' member function declared in class 'arrayListType<elemType>'
+ int arrayListType<elemType>::partition(int first, int last)
+                                                           ^
+11:10:55 **** Incremental Build of configuration Debug for project FinalExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\FinalExam.o" "..\\src\\FinalExam.cpp" 
+In file included from ..\src\FinalExam.cpp:9:0:
+..\src\arrayListType.h:110:9: error: extra qualification 'arrayListType<elemType>::' on member 'partition' [-fpermissive]
+     int arrayListType<elemType>::partition(int first, int last);
+         ^
+..\src\arrayListType.h:110:63: error: explicit specialization of 'int arrayListType<elemType>::partition(int, int)' must be introduced by 'template <>'
+     int arrayListType<elemType>::partition(int first, int last);
+                                                               ^
+..\src\arrayListType.h:457:59: error: no 'int arrayListType<elemType>::partition(int, int)' member function declared in class 'arrayListType<elemType>'
+ int arrayListType<elemType>::partition(int first, int last)
+                                                           ^
+..\src\arrayListType.h: In member function 'void arrayListType<elemType>::recQuickSort(int, int)':
+..\src\arrayListType.h:483:38: error: there are no arguments to 'partition' that depend on a template parameter, so a declaration of 'partition' must be available [-fpermissive]
+ pivotLocation = partition(first, last);
+                                      ^
+..\src\arrayListType.h:483:38: note: (if you use '-fpermissive', G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+11:12:13 **** Incremental Build of configuration Debug for project Ch10_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch10_Ex02.o" "..\\src\\Ch10_Ex02.cpp" 
+g++ -o Ch10_Ex02.exe "src\\Ch10_Ex02.o" 
+11:12:14 **** Incremental Build of configuration Debug for project Ch10_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch10_Ex04.o" "..\\src\\Ch10_Ex04.cpp" 
+g++ -o Ch10_Ex04.exe "src\\Ch10_Ex04.o" 
+11:12:15 **** Rebuild of configuration Debug for project Ch1_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex01.o" "..\\src\\Ch1_Ex01.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\romanTypeImp.o" "..\\src\\romanTypeImp.cpp" 
+g++ -o Ch1_Ex01.exe "src\\romanTypeImp.o" "src\\Ch1_Ex01.o" 
+11:12:16 **** Rebuild of configuration Debug for project Ch1_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex03.o" "..\\src\\Ch1_Ex03.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dayTypeImp.o" "..\\src\\dayTypeImp.cpp" 
+g++ -o Ch1_Ex03.exe "src\\dayTypeImp.o" "src\\Ch1_Ex03.o" 
+11:12:17 **** Rebuild of configuration Debug for project Ch1_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\personTypeImp.o" "..\\src\\personTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex04.o" "..\\src\\Ch1_Ex04.cpp" 
+g++ -o Ch1_Ex04.exe "src\\personTypeImp.o" "src\\Ch1_Ex04.o" 
+11:12:18 **** Rebuild of configuration Debug for project Ch1_Ex05 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex05.o" "..\\src\\Ch1_Ex05.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dispenserTypeImp.o" "..\\src\\dispenserTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\cashRegisterImp.o" "..\\src\\cashRegisterImp.cpp" 
+g++ -o Ch1_Ex05.exe "src\\dispenserTypeImp.o" "src\\cashRegisterImp.o" "src\\Ch1_Ex05.o" 
+11:12:19 **** Rebuild of configuration Debug for project Ch2_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\extClockTypeImp.o" "..\\src\\extClockTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex01.o" "..\\src\\Ch2_Ex01.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clockTypeImp.o" "..\\src\\clockTypeImp.cpp" 
+g++ -o Ch2_Ex01.exe "src\\extClockTypeImp.o" "src\\clockTypeImp.o" "src\\Ch2_Ex01.o" 
+11:12:21 **** Rebuild of configuration Debug for project Ch2_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dateTypeImp.o" "..\\src\\dateTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex02.o" "..\\src\\Ch2_Ex02.cpp" 
+g++ -o Ch2_Ex02.exe "src\\dateTypeImp.o" "src\\Ch2_Ex02.o" 
+11:12:22 **** Rebuild of configuration Debug for project Ch2_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pointTypeImp.o" "..\\src\\pointTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex03.o" "..\\src\\Ch2_Ex03.cpp" 
+g++ -o Ch2_Ex03.exe "src\\pointTypeImp.o" "src\\Ch2_Ex03.o" 
+11:12:23 **** Rebuild of configuration Debug for project Ch3_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex01.o" "..\\src\\Ch3_Ex01.cpp" 
+g++ -o Ch3_Ex01.exe "src\\Ch3_Ex01.o" 
+11:12:24 **** Rebuild of configuration Debug for project Ch3_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex02.o" "..\\src\\Ch3_Ex02.cpp" 
+g++ -o Ch3_Ex02.exe "src\\Ch3_Ex02.o" 
+11:12:25 **** Rebuild of configuration Debug for project Ch3_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex03.o" "..\\src\\Ch3_Ex03.cpp" 
+g++ -o Ch3_Ex03.exe "src\\Ch3_Ex03.o" 
+11:12:25 **** Rebuild of configuration Debug for project Ch3_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch3_Ex04.o" "..\\src\\Ch3_Ex04.cpp" 
+g++ -o Ch3_Ex04.exe "src\\Ch3_Ex04.o" 
+11:12:28 **** Rebuild of configuration Debug for project Ch4_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex01.o" "..\\src\\Ch4_Ex01.cpp" 
+..\src\Ch4_Ex01.cpp: In function 'int main()':
+..\src\Ch4_Ex01.cpp:48:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); ++i) // User types in the name and number of votes
+                                   ^
+..\src\Ch4_Ex01.cpp:54:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); ++i) // Calculates percentage votes
+                                   ^
+..\src\Ch4_Ex01.cpp:64:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); i++) // displays the name, the number of votes they got and the percentage
+                                   ^
+g++ -o Ch4_Ex01.exe "src\\Ch4_Ex01.o" 
+11:12:33 **** Rebuild of configuration Debug for project Ch4_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex02.o" "..\\src\\Ch4_Ex02.cpp" 
+g++ -o Ch4_Ex02.exe "src\\Ch4_Ex02.o" 
+11:12:34 **** Rebuild of configuration Debug for project Ch4_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex03.o" "..\\src\\Ch4_Ex03.cpp" 
+..\src\Ch4_Ex03.cpp: In function 'int main()':
+..\src\Ch4_Ex03.cpp:50:32: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(int i=0; i < vecList.size(); i++)
+                                ^
+g++ -o Ch4_Ex03.exe "src\\Ch4_Ex03.o" 
+11:12:35 **** Rebuild of configuration Debug for project Ch6_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch6_Ex01.o" "..\\src\\Ch6_Ex01.cpp" 
+g++ -o Ch6_Ex01.exe "src\\Ch6_Ex01.o" 
+11:12:36 **** Rebuild of configuration Debug for project Ch6_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch6_Ex02.o" "..\\src\\Ch6_Ex02.cpp" 
+g++ -o Ch6_Ex02.exe "src\\Ch6_Ex02.o" 
+11:12:36 **** Rebuild of configuration Debug for project Ch6_Ex03 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch6_Ex03.o" "..\\src\\Ch6_Ex03.cpp" 
+g++ -o Ch6_Ex03.exe "src\\Ch6_Ex03.o" 
+11:12:37 **** Rebuild of configuration Debug for project Ch6_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch6_Ex04.o" "..\\src\\Ch6_Ex04.cpp" 
+g++ -o Ch6_Ex04.exe "src\\Ch6_Ex04.o" 
+11:12:38 **** Rebuild of configuration Debug for project Ch6_Ex05 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch6_Ex05.o" "..\\src\\Ch6_Ex05.cpp" 
+g++ -o Ch6_Ex05.exe "src\\Ch6_Ex05.o" 
+11:12:39 **** Rebuild of configuration Debug for project Ch9_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch9_Ex01.o" "..\\src\\Ch9_Ex01.cpp" 
+g++ -o Ch9_Ex01.exe "src\\Ch9_Ex01.o" 
+11:12:39 **** Rebuild of configuration Debug for project Ch9_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch9_Ex02.o" "..\\src\\Ch9_Ex02.cpp" 
+In file included from ..\src\Ch9_Ex02.cpp:16:0:
+..\src\orderedArrayListType.h: In instantiation of 'int orderedArrayListType<elemType>::recBinarySearch(const elemType&, int, int) const [with elemType = int]':
+..\src\orderedArrayListType.h:38:65:   required from 'int orderedArrayListType<elemType>::recBinarySearchImp(const elemType&) const [with elemType = int]'
+..\src\Ch9_Ex02.cpp:39:42:   required from here
+..\src\orderedArrayListType.h:45:6: warning: unused variable 'mid' [-Wunused-variable]
+  int mid;
+      ^
+g++ -o Ch9_Ex02.exe "src\\Ch9_Ex02.o" 
+11:12:42 **** Incremental Build of configuration Debug for project FinalExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\FinalExam.o" "..\\src\\FinalExam.cpp" 
+In file included from ..\src\FinalExam.cpp:9:0:
+..\src\arrayListType.h:110:10: error: extra qualification 'arrayListType<elemType>::' on member 'partition' [-fpermissive]
+     void arrayListType<elemType>::partition(int first, int last);
+          ^
+..\src\arrayListType.h:110:64: error: explicit specialization of 'void arrayListType<elemType>::partition(int, int)' must be introduced by 'template <>'
+     void arrayListType<elemType>::partition(int first, int last);
+                                                                ^
+..\src\arrayListType.h:457:59: error: no 'int arrayListType<elemType>::partition(int, int)' member function declared in class 'arrayListType<elemType>'
+ int arrayListType<elemType>::partition(int first, int last)
+                                                           ^
+..\src\arrayListType.h: In member function 'void arrayListType<elemType>::recQuickSort(int, int)':
+..\src\arrayListType.h:483:38: error: there are no arguments to 'partition' that depend on a template parameter, so a declaration of 'partition' must be available [-fpermissive]
+ pivotLocation = partition(first, last);
+                                      ^
+..\src\arrayListType.h:483:38: note: (if you use '-fpermissive', G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+11:12:46 **** Rebuild of configuration Debug for project MidtermExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MidtermExam.o" "..\\src\\MidtermExam.cpp" 
+g++ -o MidtermExam.exe "src\\MidtermExam.o" 
+11:21:32 **** Incremental Build of configuration Debug for project FinalExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\FinalExam.o" "..\\src\\FinalExam.cpp" 
+g++ -o FinalExam.exe "src\\FinalExam.o" 
+src\FinalExam.o: In function `main':
+F:\Workspace\FinalExam\Debug/../src/FinalExam.cpp:35: undefined reference to `arrayListType<int>::quickSort()'
+collect2.exe: error: ld returned 1 exit status
+11:22:28 **** Incremental Build of configuration Debug for project FinalExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\FinalExam.o" "..\\src\\FinalExam.cpp" 
+g++ -o FinalExam.exe "src\\FinalExam.o" 
+src\FinalExam.o: In function `main':
+F:\Workspace\FinalExam\Debug/../src/FinalExam.cpp:35: undefined reference to `arrayListType<int>::quickSort()'
+collect2.exe: error: ld returned 1 exit status
+11:26:27 **** Incremental Build of configuration Debug for project FinalExam ****
+Info: Internal Builder is used for build
+g++ -o FinalExam.exe "src\\FinalExam.o" 
+src\FinalExam.o: In function `main':
+F:\Workspace\FinalExam\Debug/../src/FinalExam.cpp:35: undefined reference to `arrayListType<int>::quickSort()'
+collect2.exe: error: ld returned 1 exit status
+11:32:40 **** Incremental Build of configuration Debug for project FinalExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\FinalExam.o" "..\\src\\FinalExam.cpp" 
+..\src\FinalExam.cpp: In function 'int main()':
+..\src\FinalExam.cpp:35:39: error: no matching function for call to 'arrayListType<int>::quickSort(arrayListType<int>&, int&)'
+  myIntList.quickSort(myIntList,counter);
+                                       ^
+..\src\FinalExam.cpp:35:39: note: candidate is:
+In file included from ..\src\FinalExam.cpp:9:0:
+..\src\arrayListType.h:48:9: note: void arrayListType<elemType>::quickSort() [with elemType = int]
+    void quickSort();
+         ^
+..\src\arrayListType.h:48:9: note:   candidate expects 0 arguments, 2 provided
+11:34:16 **** Incremental Build of configuration Debug for project FinalExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\FinalExam.o" "..\\src\\FinalExam.cpp" 
+g++ -o FinalExam.exe "src\\FinalExam.o" 
+Info: Nothing to build for FinalExam
+11:52:56 **** Rebuild of configuration Debug for project FinalExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\FinalExam.o" "..\\src\\FinalExam.cpp" 
+g++ -o FinalExam.exe "src\\FinalExam.o" 
+11:53:41 **** Incremental Build of configuration Debug for project FinalExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\FinalExam.o" "..\\src\\FinalExam.cpp" 
+g++ -o FinalExam.exe "src\\FinalExam.o" 
+Info: Nothing to build for FinalExam

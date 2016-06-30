@@ -1,0 +1,17 @@
+11:12:28 **** Rebuild of configuration Debug for project Ch4_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch4_Ex01.o" "..\\src\\Ch4_Ex01.cpp" 
+..\src\Ch4_Ex01.cpp: In function 'int main()':
+..\src\Ch4_Ex01.cpp:48:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); ++i) // User types in the name and number of votes
+                                   ^
+..\src\Ch4_Ex01.cpp:54:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); ++i) // Calculates percentage votes
+                                   ^
+..\src\Ch4_Ex01.cpp:64:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < data.size(); i++) // displays the name, the number of votes they got and the percentage
+                                   ^
+g++ -o Ch4_Ex01.exe "src\\Ch4_Ex01.o" 
+
+11:12:33 Build Finished (took 4s.555ms)
+

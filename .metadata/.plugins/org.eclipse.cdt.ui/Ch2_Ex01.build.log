@@ -1,0 +1,9 @@
+11:12:19 **** Rebuild of configuration Debug for project Ch2_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\extClockTypeImp.o" "..\\src\\extClockTypeImp.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch2_Ex01.o" "..\\src\\Ch2_Ex01.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clockTypeImp.o" "..\\src\\clockTypeImp.cpp" 
+g++ -o Ch2_Ex01.exe "src\\extClockTypeImp.o" "src\\clockTypeImp.o" "src\\Ch2_Ex01.o" 
+
+11:12:21 Build Finished (took 1s.389ms)
+

@@ -1,0 +1,7 @@
+11:53:41 **** Incremental Build of configuration Debug for project FinalExam ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\FinalExam.o" "..\\src\\FinalExam.cpp" 
+g++ -o FinalExam.exe "src\\FinalExam.o" 
+
+11:53:41 Build Finished (took 670ms)
+

@@ -1,0 +1,60 @@
+//============================================================================
+// Name        : Ch4_Ex03.cpp
+// Author      : Charles Carper
+// Version     :
+// Copyright   : 3.12.15
+// Description : Ch4_Ex03
+//============================================================================
+
+#include <iostream>
+#include <iomanip>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+int main()
+{
+vector<double> vecList;
+vector<double>::iterator intVecIter;
+
+double insert    = 0.0;
+double sum       = 0.0;
+double max       = 0.0;
+double min       = 999999.9;
+double avg       = 0.0;
+
+cout<<"Enter Integer Values, then press Ctrl(z) to Quit:"<<endl;
+
+while(cin >> insert)
+	{
+		vecList.push_back(insert);
+	}
+cout << endl ;
+
+for (intVecIter = vecList.begin();intVecIter < vecList.end(); ++intVecIter)
+	if (*intVecIter > max)
+	{
+		max = *intVecIter;
+	}
+
+for (intVecIter = vecList.begin(); intVecIter < vecList.end(); ++intVecIter)
+	if (*intVecIter < min)
+	{
+		min = *intVecIter;
+
+	}
+
+for(int i=0; i < vecList.size(); i++)
+	{
+		sum += vecList[i];
+	}
+
+avg = sum / vecList.size();
+
+cout << fixed << setprecision(2) << "Largest: "<< max << endl;
+cout << fixed << setprecision(2) << "Smallest: "<< min << endl;
+cout << fixed << setprecision(2) << "Average: "<< avg << endl;
+cout << endl;
+cout << "End of Program."<< endl;//end of program
+return 0;
+}

@@ -1,0 +1,7 @@
+11:12:37 **** Rebuild of configuration Debug for project Ch6_Ex04 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch6_Ex04.o" "..\\src\\Ch6_Ex04.cpp" 
+g++ -o Ch6_Ex04.exe "src\\Ch6_Ex04.o" 
+
+11:12:38 Build Finished (took 670ms)
+

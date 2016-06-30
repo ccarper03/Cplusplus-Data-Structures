@@ -1,0 +1,14 @@
+11:12:39 **** Rebuild of configuration Debug for project Ch9_Ex02 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch9_Ex02.o" "..\\src\\Ch9_Ex02.cpp" 
+In file included from ..\src\Ch9_Ex02.cpp:16:0:
+..\src\orderedArrayListType.h: In instantiation of 'int orderedArrayListType<elemType>::recBinarySearch(const elemType&, int, int) const [with elemType = int]':
+..\src\orderedArrayListType.h:38:65:   required from 'int orderedArrayListType<elemType>::recBinarySearchImp(const elemType&) const [with elemType = int]'
+..\src\Ch9_Ex02.cpp:39:42:   required from here
+..\src\orderedArrayListType.h:45:6: warning: unused variable 'mid' [-Wunused-variable]
+  int mid;
+      ^
+g++ -o Ch9_Ex02.exe "src\\Ch9_Ex02.o" 
+
+11:12:40 Build Finished (took 983ms)
+

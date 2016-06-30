@@ -1,0 +1,8 @@
+11:12:15 **** Rebuild of configuration Debug for project Ch1_Ex01 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ch1_Ex01.o" "..\\src\\Ch1_Ex01.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\romanTypeImp.o" "..\\src\\romanTypeImp.cpp" 
+g++ -o Ch1_Ex01.exe "src\\romanTypeImp.o" "src\\Ch1_Ex01.o" 
+
+11:12:16 Build Finished (took 1s.61ms)
+
